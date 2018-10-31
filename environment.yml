@@ -1,0 +1,10 @@
+name: fizzbuzzes 
+channels:
+  - conda-forge
+dependencies:
+  - python=3.6
+  - numpy
+  - matplotlib
+  - scikit-learn
+  - pandas
+  - ipywidgets
